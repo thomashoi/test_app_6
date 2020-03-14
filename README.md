@@ -1,3 +1,3 @@
 # README
 
-1. Complete Ruby on Rails DEveloper
+1. First Test  Repo on Complete Ruby on Rails DEveloper course by Thomas Hoi
